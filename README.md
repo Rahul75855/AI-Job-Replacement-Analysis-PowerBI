@@ -139,7 +139,7 @@ BSc in Applied AI & Data Science
 IIT Jodhpur
 
 
-
+## Dashboard Preview
 <img width="1992" height="1152" alt="VSD AI Job Replacement Case Study-01" src="https://github.com/user-attachments/assets/6059a567-4782-4446-a082-e57defdf81da" />
 <img width="1992" height="1152" alt="VSD AI Job Replacement Case Study-02" src="https://github.com/user-attachments/assets/804e86a0-5874-4d2e-b97c-d3da1bef00e8" />
 <img width="1992" height="1152" alt="VSD AI Job Replacement Case Study-03" src="https://github.com/user-attachments/assets/d00c1ebc-8da7-49bc-a395-8f6dad20a705" />
